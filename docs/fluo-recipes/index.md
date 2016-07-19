@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fluo Recipes Documentation Archive
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 * [1.0.0-beta-2][recipes-b2] - March 19, 2016 - **Latest Release**

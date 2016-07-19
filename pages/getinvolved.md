@@ -2,6 +2,7 @@
 layout: page
 title: Get Involved
 permalink: /getinvolved/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Below are some ways that you can get involved in Fluo:

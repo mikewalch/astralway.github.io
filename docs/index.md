@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Documentation
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 [Fluo] and [Fluo Recipes] have seperate documentation as they are different repositories with their own release cycle.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fluo Documentation Archive
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 * [1.0.0-beta-2][fluo-b2] - January 12, 2016 - **Latest Release**

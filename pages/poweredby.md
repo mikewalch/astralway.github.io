@@ -2,6 +2,7 @@
 layout: page
 title: Powered By
 permalink: /poweredby/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Fluo is powered by:

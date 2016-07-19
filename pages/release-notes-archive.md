@@ -2,6 +2,7 @@
 layout: page
 title: Fluo Release Notes Archive
 permalink: "/release-notes/"
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Below are the release notes for all Fluo releases:

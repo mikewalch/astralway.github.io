@@ -3,6 +3,7 @@ layout: fluo-doc
 title: Fluo 1.0.0-beta-2 Documentation
 redirect_from: /docs/1.0.0-beta-2/
 version: 1.0.0-beta-2
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 **Fluo is transaction layer that enables incremental processing on big data.**

@@ -2,6 +2,7 @@
 layout: page
 title: People
 permalink: /people/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 ---

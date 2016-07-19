@@ -2,6 +2,7 @@
 title:  "Beta 2 pre-release stress test"
 date:   2015-12-22 15:30:00
 redirect_from: /beta-2-pre-release-stress-test/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 In preperation for a beta 2 release, the [stress test][3] was run again on EC2.

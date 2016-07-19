@@ -2,6 +2,7 @@
 title:  "Running Webindex for 3 days on EC2"
 date:   2016-01-11 03:30:00
 redirect_from: /webindex-long-run/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 In preparation for the Fluo beta 2 release, [Webindex][webindex], an example

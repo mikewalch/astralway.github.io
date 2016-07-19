@@ -1,6 +1,7 @@
 ---
 title:  "Fluo is moving to Apache"
 date:   2016-06-02 11:43:00
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Fluo was recently [proposed][1] as an Apache Podling.  The [vote][2] passed and

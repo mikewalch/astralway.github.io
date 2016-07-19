@@ -2,6 +2,7 @@
 layout: page
 title: Download Fluo
 permalink: /download/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Fluo tarball distributions are available on GitHub for download using the links below:
