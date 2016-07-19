@@ -1,6 +1,7 @@
 ---
 title:  "Running Webindex for 3 days on EC2 Again"
 date:   2016-05-17 05:44:00
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Another long run of [Webindex] was done to test changes made since beta-2

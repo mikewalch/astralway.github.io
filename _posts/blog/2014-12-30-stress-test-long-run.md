@@ -2,6 +2,7 @@
 title:  "First long stress test run on Fluo"
 date:   2014-12-30 17:00:00
 redirect_from: /stress-test-long-run/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Fluo has a [stress test][1] which computes the number of unique integers

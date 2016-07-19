@@ -2,6 +2,7 @@
 title:  "Fluo talk at Accumulo Summit"
 date:   2015-05-22 14:27:00
 redirect_from: /fluo-talk-at-accumulo-summit/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 A talk on Fluo was given at the [Accumulo Summit][1] on April 29, 2015.  Below are the slides from the talk:

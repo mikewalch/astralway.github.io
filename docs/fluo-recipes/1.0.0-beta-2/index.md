@@ -2,6 +2,7 @@
 layout: recipes-doc
 title: Fluo Recipes 1.0.0-beta-2 Documentation
 version: 1.0.0-beta-2
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Common code for Fluo application developers.  

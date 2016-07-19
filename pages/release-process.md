@@ -2,6 +2,7 @@
 layout: page
 title: Release Process
 permalink: /release-process/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 ### Initial Setup

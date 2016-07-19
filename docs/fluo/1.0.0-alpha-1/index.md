@@ -3,6 +3,7 @@ layout: fluo-doc
 title: Fluo 1.0.0-alpha-1 Documentation
 redirect_from: /docs/1.0.0-alpha-1/
 version: 1.0.0-alpha-1
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Fluo is a [Percolator][2] prototype for [Accumulo][1].  This prototype relies on 

@@ -2,6 +2,7 @@
 layout: page
 title: Related Projects
 permalink: /related-projects/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 <!--- Uncomment after move to Apache

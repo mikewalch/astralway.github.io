@@ -2,6 +2,7 @@
 layout: page
 title: How To Contribute
 permalink: /how-to-contribute/
+redirect_to: "{{ site.apache }}{{ page.url }}"
 ---
 
 Contributions are welcome to all Fluo repositories ([Fluo][f], [Fluo Recipes][r]) and the [Fluo project website][w].  All repositories follow a [review-then-commit][rtc] process.
