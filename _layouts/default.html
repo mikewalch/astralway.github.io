@@ -1,95 +1,17 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/fluo.css">
-    <link href='//fonts.googleapis.com/css?family=Montserrat:700,400' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="icon" type="image/png" href="{{ site.baseurl }}/resources/favicon.png">
-    <title>{% if page.title %}{% if page.html_title_override %}{{ page.title }}{% else %}{{ page.title }} | Fluo{% endif %}{% else %} Fluo {% endif %}</title>
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
+<html lang="en-us">
+
+  {% include head.html %}
+
   <body>
-    <div id="fluo-nav" class="navbar navbar-default navbar-static-top">
-      <div class="container">
-        <div class="navbar-header">
-          <div class="navbar-toggle-wrapper visible-xs">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".js-navbar-collapse">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-          </div>
-          <a href="{{ site.baseurl }}/" class="navbar-brand"><img src="{{ site.baseurl }}/resources/fluo-logo.png" alt="Fluo"></a>
-        </div>
-        <div class="collapse navbar-collapse js-navbar-collapse" style="margin-top: 20px">
-          <ul class="navbar-nav nav">
-            <li><a href="{{ site.baseurl }}/docs/">Documentation</a></li>
-            <li><a href="{{ site.baseurl }}/download/">Download</a></li>
-            <li class="dropdown">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Community<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}/getinvolved/">Get Involved</a></li>
-                <li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
-                <li><a href="{{ site.baseurl }}/people/">People</a></li>
-                <li><a href="{{ site.baseurl }}/related-projects/">Related Projects</a></li>
-                <li><a href="{{ site.baseurl }}/poweredby/">Powered By</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Contributing<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="{{ site.baseurl }}/how-to-contribute/">How To Contribute</a></li>
-                <li><a href="{{ site.baseurl }}/release-process/">Release Process</a></li>
-              </ul>
-            </li>
-          </ul>
-          <!--Uncomment when moved to Apache
-          <ul class="navbar-nav nav navbar-right">
-            <li class="dropdown">
-              <a class="dropdown-toggle" data-toggle="dropdown" href="#">Apache Software Foundation<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="https://www.apache.org">Apache Homepage</a></li>
-                <li><a href="https://www.apache.org/licenses/LICENSE-2.0">License</a></li>
-                <li><a href="https://www.apache.org/foundation/sponsorship">Sponsorship</i></a></li>
-                <li><a href="https://www.apache.org/security">Security</a></li>
-                <li><a href="https://www.apache.org/foundation/thanks">Thanks</a></li>
-                <li><a href="https://www.apache.org/foundation/policies/conduct">Code of Conduct</a></li>
-              </ul>
-            </li>
-          </ul-->
-        </div>
-      </div>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
     </div>
-    <div class="container">
-      <div class="row">
-          <div class="col-sm-12">
-            <div class="alert alert-danger" role="alert">
-              Fluo moved to Apache! Visit our new <a href="https://fluo.apache.org">Apache Fluo</a> website. This site will remain but will no longer be updated.
-            </div>
-            {{ content }}
-          </div>
-      </div>
-      <hr>
-      <div class="row footer">
-        <div class="col-sm-12 text-center">
-          <!-- Uncomment when moved to Apache 
-          <div class="center-block">
-          <a href="https://apache.org"><img src="{{ site.baseurl }}/resources/feather.png" alt="Apache"></a>
-          Copyright &copy; {{ site.time | date: '%Y' }} The Apache Software Foundation. Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache&nbsp;License,&nbsp;Version&nbsp;2.0</a>
-          </div-->
-        </div>
-      </div>
-    </div>
-    <script src="{{ site.baseurl }}/javascripts/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/javascripts/bootstrap.min.js"></script>
-    {% include scripts.html %}
+
   </body>
+
+  {% include scripts.html %}
 </html>

@@ -1,59 +1,7 @@
 # Site settings
-title: Fluo
+
+title: Astralway
+tagline: "Open source projects that use Apache Fluo"
+url: http://astralway.github.io
 baseurl: "" # the subpath of site
-url: "http://fluo.io" # the base hostname & protocol for your site
-
-apache: "https://fluo.apache.org"
-
 permalink: pretty
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "_posts/blog"
-      type: "posts"
-    values:
-      layout: "post"
-      category: "blog"
-  - 
-    scope:
-      path: "_posts/release-notes"
-      type: "posts"
-    values:
-      layout: "release-notes"
-      category: "release-notes"
-      permalink: "/:categories/:title/"
-  -
-    scope:
-      path: "_posts/release-summaries"
-      type: "posts"
-    values:
-      layout: "release-summary"
-      category: "release-summaries"
-      permalink: "/:categories/:title/"
-
-# Number of posts displayed on the home page.
-num_home_posts: 5
-
-# Color scheme based on http://flatuicolors.com/.
-color: default
-
-# Fluo specific settings
-latest_fluo_release: "1.0.0-beta-2"
-latest_fluo_release_date: "January 12, 2016"
-latest_recipes_release: "1.0.0-beta-2"
-latest_recipes_release_date: "March 29, 2016"
-
-whitelist: [jekyll-redirect-from]
-gems: [jekyll-redirect-from]
-
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  hard_wrap: false
