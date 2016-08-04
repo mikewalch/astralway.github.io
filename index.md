@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Astralway
-
 Astralway is a collection of open source projects on [GitHub] that use [Apache Fluo] but
 are not endorsed by the [Apache Software Foundation].
 

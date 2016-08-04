@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+            Copyright 2016 Astralway authors (see AUTHORS)
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<!-- This logo was created using: 
+  - Starburst Icon by Stephen Hutchings (CC BY-SA license)
+    https://github.com/stephenhutchings/typicons.font 
+  - Audiowide Font (SIL Open Font License 1.1)
+    https://www.google.com/fonts/specimen/Audiowide
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="astralway-icon.svg"
+   inkscape:export-filename="/tmp/favicon.png"
+   inkscape:export-xdpi="25.796793"
+   inkscape:export-ydpi="25.796793">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2859"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2859-3"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2988"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3047"
+       inkscape:persp3d-origin="12 : 8 : 1"
+       inkscape:vp_z="24 : 12 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 12 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3059"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective5432"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="-52.828865"
+     inkscape:cy="574.01299"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1438"
+     inkscape:window-height="663"
+     inkscape:window-x="77"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path5120"
+       d="m 397.11424,446.4842 -10.27423,-6.8865 5.46774,-11.14031 c 0.82239,-1.67692 0.76125,-3.65566 -0.16672,-5.27108 -0.93349,-1.62103 -2.6005,-2.66632 -4.45642,-2.78365 l -12.32466,-0.79936 -0.80017,-12.39799 c -0.11113,-1.86696 -1.15577,-3.54945 -2.76166,-4.48294 -1.61142,-0.93347 -3.58402,-1.00614 -5.23989,-0.16753 l -11.06329,5.50584 -6.85135,-10.33536 c -2.06152,-3.11349 -7.18477,-3.11349 -9.24629,0 l -6.85692,10.32977 -11.06884,-5.50025 c -1.66142,-0.83848 -3.63403,-0.76579 -5.23994,0.16753 -1.61141,0.93349 -2.65047,2.61598 -2.76716,4.48294 l -0.79463,12.3924 -12.32466,0.79934 c -1.85591,0.12275 -3.52847,1.16823 -4.45641,2.78366 -0.92799,1.61544 -0.99467,3.59976 -0.16672,5.27108 l 5.46774,11.14028 -10.27423,6.89213 c -1.54477,1.03967 -2.47271,2.78368 -2.47271,4.65065 0,1.86693 0.92794,3.61094 2.47271,4.65059 l 10.27979,6.89212 -5.4733,11.13469 c -0.8224,1.67695 -0.76127,3.65571 0.16672,5.27112 0.92794,1.61542 2.6005,2.66628 4.45641,2.78371 l 12.32466,0.79931 0.79463,12.39793 c 0.11656,1.86143 1.15575,3.54391 2.76716,4.47738 1.61147,0.9335 3.5674,1.00057 5.23994,0.17338 l 11.06884,-5.50587 6.85136,10.33539 c 1.03355,1.55389 2.76721,2.48741 4.62314,2.48741 1.85594,0 3.5896,-0.93352 4.62315,-2.48741 l 6.85136,-10.33539 11.06328,5.50587 c 1.66143,0.82727 3.62848,0.76021 5.23989,-0.16752 1.61145,-0.93352 2.65054,-2.61601 2.76722,-4.48295 l 0.79461,-12.39238 12.33022,-0.80495 c 1.85592,-0.11733 3.52848,-1.16264 4.45642,-2.78366 0.92797,-1.621 0.99466,-3.59976 0.16672,-5.27111 l -5.46774,-11.13467 10.27423,-6.89214 c 1.54476,-1.03968 2.47271,-2.78366 2.47271,-4.65062 0,-1.86693 -0.92795,-3.61656 -2.47271,-4.65059 z m -22.40442,16.75235 3.94522,8.02123 -8.89065,0.58132 c -2.78944,0.18449 -5.00653,2.41477 -5.18989,5.22078 l -0.57236,8.93238 -7.97379,-3.9631 c -2.50047,-1.25212 -5.53443,-0.43042 -7.0847,1.91165 l -4.92877,7.43432 -4.93987,-7.45105 c -1.06132,-1.60428 -2.82278,-2.48743 -4.62867,-2.48743 -0.82796,0 -1.66702,0.18449 -2.45604,0.5813 l -7.97937,3.96315 -0.57233,-8.93241 c -0.17781,-2.80041 -2.40047,-5.03626 -5.18991,-5.22075 l -8.8684,-0.57573 3.94521,-8.02124 c 1.23911,-2.52098 0.42231,-5.57291 -1.90038,-7.12689 l -7.40701,-4.96923 7.40146,-4.96369 c 2.32268,-1.55949 3.13394,-4.61152 1.90038,-7.12684 l -3.94522,-8.02682 8.89064,-0.57578 c 2.78945,-0.18444 5.00654,-2.41474 5.1899,-5.22079 l 0.57233,-8.93232 7.97381,3.96308 c 2.48936,1.23535 5.53443,0.42482 7.08472,-1.91166 l 4.92875,-7.4399 4.93988,7.45107 c 1.55027,2.33652 4.58979,3.147 7.08472,1.91169 l 7.97935,-3.96867 0.5779,8.93789 c 0.18337,2.80049 2.406,5.03077 5.1899,5.21522 l 8.87952,0.57575 -3.93966,8.0324 c -1.23913,2.52095 -0.42229,5.56735 1.90039,7.12686 l 7.40145,4.96369 -7.40701,4.96922 c -2.33379,1.54838 -3.14509,4.60031 -1.9115,7.1213 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ff6600"
+       inkscape:export-filename="/tmp/favicon.png"
+       inkscape:export-xdpi="40.350735"
+       inkscape:export-ydpi="40.350735" />
+  </g>
+</svg>

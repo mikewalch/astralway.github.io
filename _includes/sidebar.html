@@ -1,7 +1,7 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+      <a href="{{ site.baseurl }}"><img class="sidebar-logo" src="/public/astralway-logo-dark.png"/></a>
       <p class="lead">Open source projects that use <a href="https://fluo.apache.org/">Apache Fluo&trade;</a></p>
     </div>
 
@@ -22,10 +22,5 @@
         {% endif %}
       {% endfor %}
     </nav>
-
-    <div class="container sidebar-disclaimer sidebar-sticky">
-      <a href="https://fluo.apache.org"><img height="50rem" src="{{ site.baseurl }}/public/fluo-logo.png"/></a>
-      <p>Apache Fluo is a trademark of the Apache Software Foundation. The Apache Software Foundation has no affiliation with and does not endorse or review this website.</p>
-    </div>
   </div>
 </div>
