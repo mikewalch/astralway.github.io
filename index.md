@@ -8,8 +8,8 @@ are not endorsed by the [Apache Software Foundation].
 
 ### Tools
 
-* [Uno] - Runs Apache Fluo and dependences on a single machine for development
-* [Muchos] - Deploys Apache Fluo and dependencies to a cluster (optionally launched in Amazon EC2)
+* [Uno] - Sets up Apache Fluo's dependencies on a single machine for development
+* [Muchos] - Sets up Apache Fluo's dependencies on a cluster (optionally launched in Amazon EC2)
 
 ### Example applications
 
